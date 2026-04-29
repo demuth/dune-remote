@@ -14,6 +14,8 @@ This short course is designed for the newbie analyst who could use some step by 
 
 Here we try to cover each of the necessary steps for Mac, Linux, and Windows users. 
 
+Assumed is that you have completed the computing access request found at https://get-connected.fnal.gov/users-affiliates-access/
+
 
 "How to connect to the DUNE high performance computing grid to get started on my analysis work?"
 
