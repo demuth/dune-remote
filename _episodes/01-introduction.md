@@ -8,6 +8,13 @@ keypoints:
 - "The DUNE gpvm's can be accessed and controlled remotely, and sometimes complex configuration is needed on Mac, Windows, and Linux systems."
 ---
 
+So you have been recruited to join DUNE, possibly as an undergraduate, and are eager to get setup to take advantage of the high performance computing systems at Fermilab!
+
+This short course is designed for the newbie analyst who could use some step by step guidance on setting up and configuring the software needed.  
+
+Here we try to cover each of the necessary steps for Mac, Linux, and Windows users. 
+
+
 "How to connect to the DUNE high performance computing grid to get started on my analysis work?"
 
 "Connecting to FNAL via Kerberos"
