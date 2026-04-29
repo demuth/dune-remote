@@ -12,15 +12,9 @@ keypoints:
 
 So you have been recruited to join DUNE, possibly as an undergraduate, and are eager to get setup to take advantage of the high performance computing systems at Fermilab!
 
-This short course is designed for the newbie analyst who could use some step by step guidance on setting up and configuring the software needed.  
-
-Here we try to cover each of the necessary steps for Mac, Linux, and Windows users. 
+This short course is designed for the newbie analyst who could use some step by step guidance on setting up and configuring the software needed.  Here we try to cover each of the necessary steps for Mac, Linux, and Windows users. 
 
 Assumed is that you have completed the computing access request found at [https://get-connected.fnal.gov/users-affiliates-access/](https://get-connected.fnal.gov/users-affiliates-access/) and that it is computing access for the (new) User that you are after.
-
-
-
-[Check out the longer list of DUNE computing tutorials](https://wiki.dunescience.org/wiki/Computing_tutorials) (collaborators only)
 
 "How to connect to the DUNE high performance computing grid to get started on my analysis work?"
 
@@ -32,6 +26,7 @@ Assumed is that you have completed the computing access request found at [https:
 
 "Setting up and using vnc and remote desktopping from a dunegpvm"
 
+[Check out the longer list of DUNE computing tutorials](https://wiki.dunescience.org/wiki/Computing_tutorials) (collaborators only)
 
 {% include links.md %}
 
