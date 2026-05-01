@@ -1,4 +1,3 @@
-
 ---
 title: Mission Setup
 teaching: 60
