@@ -23,7 +23,7 @@ title: "DUNE Remote Work Primer"
 # 'transition-step-2': notice encouraging to use new version
 # 'transition-step-3': notice indicating the lesson is deprecated,
 #                      with automated redirect
-life_cycle: "pre-alpha"
+life_cycle: "alpha"
 
 # For lessons in the life stages in 'transition-step-1' or later:
 # - 'transition_url' holds the URL for the version of the lesson that
@@ -47,7 +47,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "team@carpentries.org"
+email: "david.demuth@vcsu.edu"
 
 # Sites.
 coc: "https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html"
