@@ -1,5 +1,5 @@
 ---
-title: Mission Setup
+title: My Mission Setup
 teaching: 60
 exercises: 20
 questions:
@@ -16,6 +16,7 @@ keypoints:
 - Access is streamlined using configuration files
 - CERN users configure and access CERN resources instead
 ---
+
 ## Objectives
 
 - Get ready to do the tutorial
