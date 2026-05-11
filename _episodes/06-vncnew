@@ -1,0 +1,14 @@
+---
+title: "VNC New"
+teaching: 10
+exercises: 0
+questions:
+- How to use VNC for window management.
+keypoints:
+- "The DUNE gpvm's can be accessed and controlled remotely, and sometimes complex configuration is needed on Mac, Windows, and Linux systems."
+---
+
+## DUNE VNC 2026
+
+
+{% include links.md %}
